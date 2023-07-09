@@ -8,7 +8,7 @@ This is Web application project to Manage Todos
 - Modules/libraries :
     - Spring Boot 3.1.1
     - Spring Security
-    - Spring Data JPA
+    - Hibernate
     - Spring web-starter
     - jakarta servlet jsp-jstl-api
     - H2 Database (in-memory database)
