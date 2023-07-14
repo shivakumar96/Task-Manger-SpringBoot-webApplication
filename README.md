@@ -14,9 +14,9 @@ This is Web application project to Manage Todos
     - H2 Database (in-memory database)
     - bootstrap <br>
 
-Refer: pom.xml
+Refer pom.xml for dependencies.
 
-## Request Code Access, to downlod it form the Github
+## Clone Repository from GitHub
 Run the below command to clone code from github
 ```
 git clone https://github.com/shivakumar96/Task-Manger-SpringBoot-webApplication.git
@@ -29,4 +29,4 @@ Start intellij idea or Eclipse IDE <br />
 2. Run the main method in TaskMangerApplication Java class. 
 3. open web browser and type URL 'http://localhost:8080'
 4. It will open Login page. use either (admin,admin) or (user,user) as username and password.
-5. Manage your datavase
+5. Manage your database
